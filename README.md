@@ -8,3 +8,7 @@ Virtual DOM: React uses a virtual representation of the DOM, which is more effic
 State management: React provides a way to manage state with in components, which makes it easier to build complex UIs.
 
 JSX: React uses a syntax extension called JSX, which allows you to write HTML-like code within your JavaScript files.
+
+# How to setup react app
+# # Install Node First https://nodejs.org/en/
+# Install React App On Local Machine
