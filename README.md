@@ -10,5 +10,5 @@ State management: React provides a way to manage state with in components, which
 JSX: React uses a syntax extension called JSX, which allows you to write HTML-like code within your JavaScript files.
 
 # How to setup react app
-#820 Install Node First https://nodejs.org/en/
-# Install React App On Local Machine
+## Install Node First https://nodejs.org/en/
+## Install React App On Local Machine
