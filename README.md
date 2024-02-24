@@ -14,13 +14,12 @@
 
 <hr>
 
-## How Setup React App For Web Development
-
+## How Setup React App For Web Development:-
 <hr>
 
 ### Install Node First https://nodejs.org/en/
 
-### Install React App On Local Machine 
+### Install React App On Local Machine:-
 
 ```
 npm init react-app my-app
@@ -30,7 +29,7 @@ cd my-app
 npm start
 ```
 
-### React Create using vite
+### React Create using vite:-
 
 ```
 npm create vite@latest
@@ -100,9 +99,9 @@ ReactDOM.render( /*#__PURE__*/React.createElement("h1", null, "Welcome to react 
 
 # Short Code
 
-> rfc
+> rfce
 
-> rafc
+> rcc
 
 
 
