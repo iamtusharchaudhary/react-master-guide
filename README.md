@@ -18,6 +18,6 @@ or
 <br/>
 `npx create-react-app my-app`
 <br/>
-cd my-app
+`cd my-app
 <br/>
 npm start`
