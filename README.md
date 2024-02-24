@@ -12,3 +12,8 @@ JSX: React uses a syntax extension called JSX, which allows you to write HTML-li
 # How to setup react app
 ## Install Node First https://nodejs.org/en/
 ## Install React App On Local Machine
+`npm init react-app my-app
+or 
+npx create-react-app my-app
+cd my-app
+npm start`
