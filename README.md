@@ -15,6 +15,7 @@ JSX: React uses a syntax extension called JSX, which allows you to write HTML-li
 
 `npm init react-app my-app
 or`
+<br/>
 `npx create-react-app my-app
 cd my-app
 npm start`
