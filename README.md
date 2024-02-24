@@ -14,10 +14,10 @@ JSX: React uses a syntax extension called JSX, which allows you to write HTML-li
 ## Install React App On Local Machine
 
 `npm init react-app my-app
-or
+or`
 <br/>
-npx create-react-app my-app
+`npx create-react-app my-app`
 <br/>
-cd my-app
+`cd my-app`
 <br/>
-npm start`
+`npm start`
